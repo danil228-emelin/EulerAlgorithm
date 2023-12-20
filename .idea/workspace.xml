@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="024c7e25-18a4-4f7f-bc6d-c67002893168" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/math/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/math/Runge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/math/AlgorithmFirst.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +73,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Runge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.Runge" />
+      <module name="Math" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Math" />
       <method v="2">
@@ -89,6 +102,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Runge" />
         <item itemvalue="Application.AlgorithmFirst" />
       </list>
     </recent_temporary>
@@ -103,7 +117,7 @@
       <updated>1703064586361</updated>
       <workItem from="1703064587496" duration="4284000" />
       <workItem from="1703069643257" duration="85000" />
-      <workItem from="1703069742894" duration="9087000" />
+      <workItem from="1703069742894" duration="10117000" />
     </task>
     <servers />
   </component>
